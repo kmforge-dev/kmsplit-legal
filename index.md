@@ -56,4 +56,4 @@ from them.
 We may update this policy; the "Last updated" date reflects the latest version.
 
 ## Contact
-Questions? Email us at **support@kmforge.app** _(replace with your real support email)_.
+Questions? Email us at **kmforge.dev@gmail.com**.
